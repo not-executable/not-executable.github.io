@@ -1,9 +1,9 @@
-p {
+.ame {
 font-family: 'Courier New', Courier, monospace;
 font-size: larger;
-color: cadetblue;
+color: darkmagenta;
 }
-
+/* ame-chan gets her own class yay */
 
 h1 {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -11,8 +11,29 @@ font-weight: 900;
 color: blueviolet;
 }
 
-.cool {
-
-background-color: aquamarine;
-border: 100px aqua;
+.iwakura {
+font-family: 'Courier New', Courier, monospace;
+color: rgb(0, 255, 0);
 } 
+/* yep lain also gets her own class */
+
+.yuzuha {
+background-color: rgb(48, 2, 45);
+font-family: 'Courier New', Courier, monospace;
+border: 0;
+color: antiquewhite;
+padding: 5px 15px;
+}
+
+
+.yuzuha:hover {
+background-color: rgb(54, 28, 48);
+}
+
+.yuzuha:active {
+background-color: darkmagenta;    
+}
+
+body {
+background-color: black;
+}
