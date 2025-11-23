@@ -1,7 +1,7 @@
 .ame {
 font-family: 'Courier New', Courier, monospace;
 font-size: larger;
-color: rgb(0, 255, 0)
+color: rgb(0, 255, 0);
 }
 /* ame-chan gets her own class yay */
 
@@ -50,4 +50,5 @@ background-color: darkmagenta;
 body {
 background-color: black;
 }
+
 
