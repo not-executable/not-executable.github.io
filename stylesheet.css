@@ -51,4 +51,15 @@ body {
 background-color: black;
 }
 
+label {
+font-family: 'Courier New', Courier, monospace;
+font-size: 2rem;
+padding-right: 10px;
+}
 
+select {
+    font-size: 0.8rem;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: rgb(0, 255, 0);
+}
