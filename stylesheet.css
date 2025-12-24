@@ -24,6 +24,13 @@ font-size: xx-large;
 font-weight: 900;
 } 
 
+.nso {
+font-family: 'Courier New', Courier, monospace;
+color: rgb(255, 0, 221);
+font-size: large;
+font-weight: 900;
+} 
+
 /* .nani:hover
 {
 color: rgb(0, 255, 255);
@@ -63,3 +70,11 @@ select {
     background-color: black;
     color: rgb(0, 255, 0);
 }
+
+.crs {
+font-family: 'Courier New', Courier, monospace;
+color: rgb(255, 0, 221);
+font-size: 30px;
+font-weight: 900;
+}
+/* happy new year ig (if its even happy lol)
