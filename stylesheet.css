@@ -2,6 +2,7 @@
 font-family: 'Courier New', Courier, monospace;
 font-size: larger;
 color: rgb(0, 255, 0);
+filter: drop-shadow(3px 3px 0 magenta);
 }
 /* ame-chan gets her own class yay */
 
@@ -14,6 +15,7 @@ color: blueviolet;
 .iwakura {
 font-family: 'Courier New', Courier, monospace;
 color: rgb(0, 255, 0);
+filter: drop-shadow(3px 3px 0 magenta);
 } 
 /* yep lain also gets her own class */
 
@@ -22,6 +24,7 @@ font-family: 'Courier New', Courier, monospace;
 color: rgb(0, 255, 0);
 font-size: xx-large;
 font-weight: 900;
+filter: drop-shadow(3px 3px 0 magenta);
 } 
 
 .nso {
@@ -29,6 +32,7 @@ font-family: 'Courier New', Courier, monospace;
 color: rgb(255, 0, 221);
 font-size: large;
 font-weight: 900;
+filter: drop-shadow(2px 2px 0 red);
 } 
 
 /* .nani:hover
