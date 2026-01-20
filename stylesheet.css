@@ -7,20 +7,25 @@ filter: drop-shadow(3px 3px 0 magenta);
 /* ame-chan gets her own class yay */
 
 h1 {
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-weight: 900;
+font-family: "IBM Plex Mono", monospace;
+font-weight: 300;
+font-style: normal;
 color: blueviolet;
 }
 
 .iwakura {
-font-family: 'Courier New', Courier, monospace;
+font-family: "IBM Plex Mono", monospace;
+font-weight: 400;
+font-style: normal;
 color: rgb(0, 255, 0);
 filter: drop-shadow(3px 3px 0 magenta);
 } 
 /* yep lain also gets her own class */
 
 .nani {
-font-family: 'Courier New', Courier, monospace;
+font-family: "IBM Plex Mono", monospace;
+font-weight: 400;
+font-style: normal;
 color: rgb(0, 255, 0);
 font-size: xx-large;
 font-weight: 900;
@@ -28,7 +33,9 @@ filter: drop-shadow(3px 3px 0 magenta);
 } 
 
 .nso {
-font-family: 'Courier New', Courier, monospace;
+font-family: "IBM Plex Mono", monospace;
+font-weight: 400;
+font-style: normal;
 color: rgb(255, 0, 221);
 font-size: large;
 font-weight: 900;
@@ -43,7 +50,9 @@ color: rgb(0, 255, 255);
 
 .yuzuha {
 background-color: rgb(48, 0, 45);
-font-family: 'Courier New', Courier, monospace;
+font-family: "IBM Plex Mono", monospace;
+font-weight: 400;
+font-style: normal;
 border: 0;
 color: antiquewhite;
 padding: 5px 15px;
@@ -63,22 +72,39 @@ background-color: black;
 }
 
 label {
-font-family: 'Courier New', Courier, monospace;
+font-family: "IBM Plex Mono", monospace;
+font-weight: 400;
+font-style: normal;
 font-size: 2rem;
 padding-right: 10px;
 }
 
 select {
     font-size: 0.8rem;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
     background-color: black;
     color: rgb(0, 255, 0);
 }
 
 .crs {
-font-family: 'Courier New', Courier, monospace;
+font-family: "IBM Plex Mono", monospace;
+font-weight: 400;
+font-style: normal;
 color: rgb(255, 0, 221);
 font-size: 30px;
 font-weight: 900;
+}
+
+a.otherbutton {
+    padding: 1px 6px;
+    border-radius: 3px;
+    color: magenta;
+    background-color: rgb(30, 0, 30);
+    text-decoration: none;
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
 }
 /* happy new year ig (if its even happy lol)
