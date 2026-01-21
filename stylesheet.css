@@ -2,15 +2,16 @@
 font-family: 'Courier New', Courier, monospace;
 font-size: larger;
 color: rgb(0, 255, 0);
-filter: drop-shadow(3px 3px 0 magenta);
+/*filter: drop-shadow(3px 3px 0 magenta); */
 }
 /* ame-chan gets her own class yay */
 
 h1 {
 font-family: "IBM Plex Mono", monospace;
-font-weight: 300;
+font-weight: 700;
 font-style: normal;
-color: blueviolet;
+color: magenta;
+filter: drop-shadow(3px 3px 0 rgb(0, 255, 0));
 }
 
 .iwakura {
@@ -18,7 +19,7 @@ font-family: "IBM Plex Mono", monospace;
 font-weight: 400;
 font-style: normal;
 color: rgb(0, 255, 0);
-filter: drop-shadow(3px 3px 0 magenta);
+/*filter: drop-shadow(3px 3px 0 magenta);*/
 } 
 /* yep lain also gets her own class */
 
@@ -94,7 +95,6 @@ font-weight: 400;
 font-style: normal;
 color: rgb(255, 0, 221);
 font-size: 30px;
-font-weight: 900;
 }
 
 a.otherbutton {
@@ -107,4 +107,4 @@ a.otherbutton {
     font-weight: 400;
     font-style: normal;
 }
-/* happy new year ig (if its even happy lol)
+/* happy new year ig (if its even happy lol) */
